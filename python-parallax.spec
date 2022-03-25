@@ -7,7 +7,7 @@ Summary:	Parallax Python 2 module - execute commands and copy files over SSH to 
 Summary(pl.UTF-8):	Moduł Pythona 2 Parallax - wykonywanie poleceń i kopiowanie plików przez SSH na wielu maszynach jednocześnie
 Name:		python-parallax
 Version:	1.0.1
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/parallax
